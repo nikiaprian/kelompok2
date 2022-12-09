@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '13.250.118.227',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'kelompok2',
 	'database' => 'db_indiekost',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

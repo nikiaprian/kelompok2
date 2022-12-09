@@ -66,7 +66,7 @@ class Auth extends CI_Controller
                         'kelamin_pengguna' => $userData['kelamin_pengguna'],
                         'tanggal_lahir_pengguna' => $userData['tanggal_lahir_pengguna'],
                         'no_ktp_pengguna' => $userData['no_ktp_pengguna'],
-                        'foto_pengguna' => 'http://localhost/indiekostci/assets/img/' . $userData['foto_pengguna'],
+                        'foto_pengguna' => 'http://13.250.118.227/indiekostci/assets/img/' . $userData['foto_pengguna'],
                         'id_akses' => $userData['id_akses']
                     ];
 
